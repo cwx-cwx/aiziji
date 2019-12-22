@@ -1,0 +1,6 @@
+<!--miniprogram/pages/talk/talk.wxml-->
+<image src="{{eee[Num]}}"></image>
+<button class="mm"plain="true" >
+每当你自律一点点，你的身体状态就会变好一点，心情也会变好一点，
+真正的美是由内而外散发出来的，爱自己从每个人做起！
+</button>

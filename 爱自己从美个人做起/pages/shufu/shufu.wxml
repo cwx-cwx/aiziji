@@ -1,0 +1,8 @@
+<view class="cc">今日温度</view>
+<view class="aa">{{a}}°C</view>
+<view class="dd"> (ฅ´ω`ฅ)-------------------- (ฅ´ω`ฅ)</view>
+<view class="ee">{{ab}}</view>
+<view class="ee">{{ac}}</view>
+<view class="ee">{{ad}}</view>
+<view class="ee">{{ae}}</view>
+<view class="ff"> (ฅ´ω`ฅ) ------------------ (ฅ´ω`ฅ)</view>

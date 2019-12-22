@@ -1,0 +1,21 @@
+{
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "pages/images/photo/sh.png",
+        "iconPath": "pages/images/photo/sh1.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "pages/images/photo/ke1.png",
+        "iconPath": "pages/images/photo/ke.png",
+        "pagePath": "pages/kefu/kefu",
+        "text": "科普"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+<view class="hhhh">请小主选择您的肤质哦</view>
+
+<button bindtap="ganpi" type='primary'class="gbu"plain="true">干性</button>
+<button bindtap="zhongji" type='primary'class="zbu"plain="true">中性</button>
+<button bindtap="youpi" type='primary'class="ybu"plain="true">油性</button>
+
+<button bindtap="hunyoupi" type='primary'class="hbu"plain="true">混合性</button>
+<button bindtap="minganji" type='primary'class="mbu"plain="true">敏感性</button>

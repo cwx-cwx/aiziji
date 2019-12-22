@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/ganpi/ganpi",
+    "pages/youpi/youpi",
+    "pages/hunyoupi/hunyoupi",
+    "pages/minganji/minganji",
+    "pages/kefu/kefu",
+    "pages/fuzhi/fuzhi",
+    "pages/ming/ming",
+    "pages/zhongxing/zhongxing",
+    "pages/shufu/shufu",
+    "pages/lai/lai",
+    "pages/talk/talk",
+    "pages/bu/bu",
+    "pages/hun/hun",
+    "pages/mei/mei",
+    "pages/min/min",
+    "pages/you/you",
+    "pages/qu/qu"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "爱自己从美个人做起",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "pages/images/photo/dong.png",
+        "iconPath": "pages/images/photo/dongwu1.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/lai/lai",
+        "iconPath": "pages/images/photo/ke11.png",
+        "selectedIconPath": "pages/images/photo/ke12.png",
+        "text": "来啊"
+      },
+      {
+        "selectedIconPath": "pages/images/photo/ke1.png",
+        "iconPath": "pages/images/photo/kepu.png",
+        "pagePath": "pages/kefu/kefu",
+        "text": "科普"
+      },
+      {
+        "selectedIconPath": "pages/images/photo/shu.png",
+        "iconPath": "pages/images/photo/shu1.png",
+        "pagePath": "pages/shufu/shufu",
+        "text": "舒服"
+      }
+    ],
+    "requiredBackgroundModes": [ "audio" ,"location"]
+
+  }
+}

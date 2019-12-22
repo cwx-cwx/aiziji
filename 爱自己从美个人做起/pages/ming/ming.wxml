@@ -1,0 +1,6 @@
+<button bindtap="bu" type='primary'class="gbu"plain="true">补水保湿</button>
+<button bindtap="mei" type='primary'class="zbu"plain="true">祛斑美白</button>
+<button bindtap="you" type='primary'class="ybu"plain="true">抗皱</button>
+<button bindtap="hun" type='primary'class="hbu"plain="true">祛黑眼圈</button>
+<button bindtap="qu" type='primary'class="qbu"plain="true">祛痘</button>
+<button bindtap="min" type='primary'class="mbu"plain="true">其他类型</button>

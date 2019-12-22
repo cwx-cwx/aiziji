@@ -1,0 +1,9 @@
+<view class="xiannv">仙女变身！！！</view>
+<view class="bbu">混油皮的宝宝冬天也不要掉以轻心呀，o(*^＠^*)o</view>
+<checkbox-group bindchange="checkboxChange">
+<label class="checkbox" wx:for="{{items}}">
+<checkbox value="{{item.id}}" />{{item.value}}
+</label>
+</checkbox-group>
+
+<view class="tui">{{aa}}</view>

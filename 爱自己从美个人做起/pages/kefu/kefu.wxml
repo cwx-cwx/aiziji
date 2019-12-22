@@ -1,0 +1,3 @@
+<view class="xuan">选择您想要了解的内容哟</view>
+<button bindtap="fuzhi"class="fuzhibu"plain="true">肤质</button>
+<button bindtap="mingxing"class="mingbu"plain="true">明星成分</button>

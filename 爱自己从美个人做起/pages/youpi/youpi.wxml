@@ -1,0 +1,9 @@
+<view class="xiannv">仙女变身！！！</view>
+<view>油皮的宝宝容易出痘痘，护肤品要适当地涂的少一些哦O(∩_∩)O</view>
+<checkbox-group bindchange="checkboxChange">
+<label class="checkbox" wx:for="{{items}}">
+<checkbox value="{{item.id}}" />{{item.value}}
+</label>
+</checkbox-group>
+
+<view class="tui">{{aa}}</view>

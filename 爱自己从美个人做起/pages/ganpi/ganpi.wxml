@@ -1,0 +1,9 @@
+<view class="xiannv">仙女变身！！！</view>
+<view class="bbu">干皮的宝宝一定要注重补水保湿呀，(*^▽^*)</view>
+<checkbox-group bindchange="checkboxChange">
+<label class="checkbox" wx:for="{{items}}">
+<checkbox value="{{item.id}}" />{{item.v}}
+</label>
+</checkbox-group>
+
+<view class="tui">{{aa}}</view>

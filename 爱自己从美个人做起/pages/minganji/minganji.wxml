@@ -1,0 +1,9 @@
+<view class="xiannv">仙女变身！！！</view>
+<view>敏感肌的宝宝一定要注意呀，用护肤品前必须要小面积试一哈(#^.^#)</view>
+<checkbox-group bindchange="checkboxChange">
+<label class="checkbox" wx:for="{{items}}">
+<checkbox value="{{item.id}}" />{{item.value}}
+</label>
+</checkbox-group>
+
+<view class="tui">{{aa}}</view>
